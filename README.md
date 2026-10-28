@@ -1,16 +1,16 @@
-# Cyber-btc
+# CyberYip
 
 我在探索 AI 时代的产品经理怎样更快把想法做成可讨论、可操作的方案。这里分享实际做过的 Skill 和工具，也记录哪些方法已经试过、哪些仍待验证。
 
 ## 项目
 
-### [PRDRemix](https://github.com/Cyber-btc/prdremix)
+### [PRDRemix](https://github.com/CyberYip/prdremix)
 
-<a href="https://github.com/Cyber-btc/prdremix"><img src="https://raw.githubusercontent.com/Cyber-btc/prdremix/main/assets/workflow-illustration.svg" alt="需求说明与可操作 Demo 在同一评审版本中关联修改的插图" width="800"></a>
+<a href="https://github.com/CyberYip/prdremix"><img src="https://raw.githubusercontent.com/CyberYip/prdremix/main/assets/workflow-illustration.svg" alt="需求说明与可操作 Demo 在同一评审版本中关联修改的插图" width="800"></a>
 
 让需求与 Demo 一起迭代。把两者做成同一个评审版本，从一条需求或页面反馈出发，检查规则、角色、状态、交互和验收场景的关联修改。
 
-[看效果示例](https://github.com/Cyber-btc/prdremix#效果示例) · [安装与使用](https://github.com/Cyber-btc/prdremix#安装到-codex) · [验证边界](https://github.com/Cyber-btc/prdremix#验证与边界)
+[看效果示例](https://github.com/CyberYip/prdremix#效果示例) · [安装与使用](https://github.com/CyberYip/prdremix#安装到-codex) · [验证边界](https://github.com/CyberYip/prdremix#验证与边界)
 
 ## 正在研究
 
