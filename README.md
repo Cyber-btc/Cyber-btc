@@ -2,9 +2,11 @@
 
 我在探索 AI 时代的产品经理怎样更快把想法做成可讨论、可操作的方案。这里分享实际做过的 Skill 和工具，也记录哪些方法已经试过、哪些仍待验证。
 
-## 从这里开始
+## 项目
 
 ### [产品方案协作 Skill](https://github.com/Cyber-btc/pm-workflow-skill)
+
+<a href="https://github.com/Cyber-btc/pm-workflow-skill"><img src="https://raw.githubusercontent.com/Cyber-btc/pm-workflow-skill/main/assets/workflow-illustration.svg" alt="需求说明与可操作 Demo 在同一评审版本中关联修改的插图" width="800"></a>
 
 把需求说明与可操作 Demo 做成同一个评审版本。从一条需求或页面反馈出发，检查规则、角色、状态、交互和验收场景的关联修改。
 
